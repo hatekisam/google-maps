@@ -26,8 +26,8 @@ This project is a real-time route simulation application built with React and th
    Clone the GitHub repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Chiesa14/Google_Maps.git
-   cd Google_Maps
+   git clone git url
+   cd google-maps
    npm install
    ```
 
